@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "benjaminroth",
+    "password": "",
+    "database": "worders_node_dev",
+    "dialect" : "postgres",
+    "host": "localhost"
+  }
+}
